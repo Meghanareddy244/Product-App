@@ -10,7 +10,7 @@ export default function ErrorPage({ error }: { error: Error }) {
     <div className="py-16 px-6 max-w-5xl mx-auto text-center">
       <div className="bg-white shadow-md rounded-lg p-6">
         <h1 className="text-lg text-red-500 font-semibold mb-3 ">
-          An error occurred: {error.message}
+          Product Not Found
         </h1>
       </div>
     </div>

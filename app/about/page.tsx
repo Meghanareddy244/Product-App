@@ -9,14 +9,14 @@ export default function About() {
       <div className="text-center mb-20">
         <h1 className="text-xl font-bold text-black mb-3">Our Story</h1>
         <p className="text-gray-600">
-          At Aamili, we're not just a brand – we're a commitment to a lifestyle
-          that values sustainability, ethics, individuality, comfort, and
-          craftsmanship. Our garments reflect excellence through meticulously
-          curated materials, sustainable practices, and premium tailoring. From
-          dynamic silhouettes to 100% cotton comfort, each piece tells a story
-          of style with a positive impact. Join us on this journey where fashion
-          meets responsibility, and every garment is a testament to our
-          commitment to excellence.
+          At Aamili we are not just a brand but we are a commitment to a lifestyle
+          that values sustainability ethics individuality comfort and
+          craftsmanship Our garments reflect excellence through meticulously
+          curated materials sustainable practices and premium tailoring From
+          dynamic silhouettes to 100% cotton comfort each piece tells a story
+          of style with a positive impact Join us on this journey where fashion
+          meets responsibility and every garment is a testament to our
+          commitment to excellence
         </p>
       </div>
 
