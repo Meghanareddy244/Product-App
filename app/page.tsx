@@ -7,7 +7,7 @@ export const metadata = {
 };
 export default function Home() {
   return (
-    <div className="py-16 px-6 max-w-5xl mx-auto">
+    <div className="py-16 px-6 max-w-5xl mx-auto bg-white">
       <div className="text-center mb-12">
         <h1 className="text-3xl font-bold mb-4 text-gray-800">Home Page</h1>
         <p className="mb-2 text-gray-600">Welcome to the Home page</p>
